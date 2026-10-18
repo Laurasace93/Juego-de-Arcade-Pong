@@ -3,7 +3,7 @@
 
 ## Necesario instalado
 - Python 3.11.9
-- Live Preview
+- py juego_arcade_pong.py (en terminal)
 
 ## Instrucciones del juego (movimientos)
 - Iniciar el juego: "Return/Enter"
